@@ -3,7 +3,7 @@
 A simple and responsive 2-page personal portfolio website built using HTML and CSS.
 This project includes a Home page and a Contact page to showcase basic front-end web development skills.
 
-## 🚀 Features
+## Features
 
 * Clean and simple design
 * Home page
@@ -11,12 +11,12 @@ This project includes a Home page and a Contact page to showcase basic front-end
 * Responsive layout
 * Beginner-friendly project
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash id="3r9s2k"
 portfolio/
@@ -25,7 +25,7 @@ portfolio/
 │── style.css
 ```
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was created to:
 
@@ -35,11 +35,11 @@ This project was created to:
 * Build a basic personal portfolio website
 
 
-## 👨‍💻 Author
+## Author
 
 Santhosh
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add JavaScript functionality
 * Improve mobile responsiveness
